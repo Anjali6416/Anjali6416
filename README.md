@@ -9,7 +9,7 @@
 
 - 🤝 I’ve collaborated on [Jiomart.com](https://github.com/anuj-midha247/JIO_MART_CLONE)
 
-- 👨‍💻 All of my projects are available at [https://anjaliprajapatiportfolio.netlify.app/](anjaliprajapatiportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at (anjaliprajapatiportfolio.netlify.app/)
 
 - 📫 How to reach me **anjaliprajapati1772001@gmail.com**
 
