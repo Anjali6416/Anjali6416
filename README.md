@@ -1,6 +1,6 @@
 ![logo](https://webitexperts.com/images/banner1_1.gif)
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/sCpDkw9380sAAAAC/web-development-web.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjali6416
