@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://anjaliprajapati.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anjaliprajapati17.netlify.app/)
 
 - 💬 Ask me about **Html,CSS, Javascript,React**
 
